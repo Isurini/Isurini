@@ -2,6 +2,7 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isurini&label=Profile%20views&color=0e75b6&style=flat" alt="isurini" /> </p>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 
 - 🔭 I’m an Undergraduate at **SLIIT**
 
